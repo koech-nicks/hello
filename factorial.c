@@ -1,6 +1,4 @@
-//EB3/61559/22
-
-#include <stdio.h> // Include standard input-output header file
+#include<iostream>
 
 // Function to calculate factorial
 // It takes an integer n as input and returns an unsigned long long value
