@@ -1,6 +1,6 @@
-//EB3/61559/22
 
-#include <stdio.h> // Include standard input-output header file
+
+#include <stdio.h>
 
 // Function to calculate Fibonacci using iteration
 // It takes an integer n as input and prints the Fibonacci sequence up to that number
