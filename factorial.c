@@ -1,4 +1,4 @@
-#include<iostream>
+#include<stdio.h>
 
 // Function to calculate factorial
 // It takes an integer n as input and returns an unsigned long long value
